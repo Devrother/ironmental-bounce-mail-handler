@@ -1,5 +1,4 @@
 import mongoose, { Schema } from 'mongoose';
-import Joi from '@hapi/joi'
 
 const SubscriberSchema = new Schema({
   createdAt: { type: Date, default: Date.now },
