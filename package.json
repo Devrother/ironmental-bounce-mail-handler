@@ -38,7 +38,7 @@
   "author": "The serverless webpack authors (https://github.com/elastic-coders/serverless-webpack)",
   "license": "MIT",
   "dependencies": {
-    "mongoose": "^5.5.12",
+    "mongoose": "^5.7.5",
     "source-map-support": "^0.5.12",
     "striptags": "^3.1.1"
   }
